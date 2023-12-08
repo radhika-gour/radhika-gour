@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**radhika-gour/radhika-gour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there is Radhika👋
 
 - 🔭 I’m currently working on ... Python  
 - 🌱 I’m currently learning ... Datastructure 
