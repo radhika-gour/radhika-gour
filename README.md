@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Radhika Gour</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" widht="400" src="https://img.freepik.com/premium-photo/working-girl-office-work-animated-girl-working-laptop_982269-329.jpg">
+<img align="right" alt="Coding" widht="250" src="https://img.freepik.com/premium-photo/working-girl-office-work-animated-girl-working-laptop_982269-329.jpg">
+
+<img align="left" alt="Coding" widht="250" src="[https://img.freepik.com/premium-photo/working-girl-office-work-animated-girl-working-laptop_982269-329.jpg](https://pxbar.com/wp-content/uploads/2023/09/girls-cartoon-pic.jpg)">**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhika-gour&label=Profile%20views&color=0e75b6&style=flat" alt="radhika-gour" /> </p>
 
