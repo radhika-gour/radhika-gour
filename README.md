@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **MERN, HTML, CSS, JavaScript**
 
-- 📫 How to reach me **radhika.gour2020@vitbhopal.ac.in**
+- 📫 How to reach me **yashikagour396@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
