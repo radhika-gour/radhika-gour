@@ -124,7 +124,7 @@
 <a target="_blank"href="https://linkedin.com/in/radhika-gour"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank"href="mailto: yashikagour396@gmail.com "><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a target="_blank"href="[https://twitter.com/Ashfiya6261?t=dQ3hmtVJxy1A0Z5FM6Vr4A&s=09](https://x.com/YashikaGour5?s=09)"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a target="_blank"href=""><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a target="_blank"href="https://auth.geeksforgeeks.org/user/radhikagour"><img alt="GFG" src="https://img.shields.io/badge/GeeksforGeeks-%23E4405F.svg?style=for-the-badge&logo=gfg&logoColor=white"/></a>
 
 </p>
  
