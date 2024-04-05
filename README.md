@@ -1,6 +1,5 @@
 <!--
-<h1 align="center" font-family="Courier New"> Radhika Gour</h1>
-<h3 align="center">Unleashing Potential, Fostering Innovation and Building <br> a Future of Limitless Possibilities. </h3>
+
 -->
 
 
@@ -22,32 +21,11 @@
 
 <h3 align="center">Unleashing Potential, Fostering Innovation and Building <br> a Future of Limitless Possibilities.</h3>
 
-<!--
-<p align="center">
-  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20developer;Full%20Stack%20Expert;2%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
--->
+
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<!--
-
-- 🌱 I am a MERN Stack Developer and have completed my internship in this domain.
-
-- 👯 I’m looking to collaborate on Web development projects
-
-- 📫 How to reach me ashfiyalhan786@gmail.com
-
-- ⚡ Travelling is a source of inspiration for me, as it exposes me to diverse cultures, perspectives, and experiences. This global outlook influences my coding by fostering a mindset of inclusivity and adaptability.
-
-- 💞 Volunteering is an integral part of my life, and I actively contribute to causes I care about.
-
-- 😎 I seek to enhance my understanding of Data structure and algorithms, enabling me to optimize code performance and develop highly efficient solutions for complex problems.
-
-- 👀 I strive to cultivate a growth mindset embracing challenges as opportunities for learning and personal growth, and consistently pushing the boundaries of my knowledge and capabilities.
-
--->
 
 <br>
 <hr>
